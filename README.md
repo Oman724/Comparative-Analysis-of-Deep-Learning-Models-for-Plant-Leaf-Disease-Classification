@@ -62,8 +62,8 @@ Dataset Used:
 -Deploying the model as a web application or mobile app<br>
 
 # Contributors
--Aashish Pandey<br>
 -Oman Neupane<br>
+-Aashish Pandey<br>
 -Ishan Bista<br>
 -Rakesh Kumar chaudhary<br>
 -Nijjal Kachhapati
